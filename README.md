@@ -14,7 +14,7 @@ MOVE : This moves the toy one unit forward in the direction it is currently faci
 LEFT : This rotates the toy 90 degrees to the left (i.e. counter-clockwise) without changing the position.
 RIGHT : This rotates toy 90 degrees to the right (i.e. clockwise) without changing the position.
 REPORT : This announces the X,Y and direction of the toy by printing to the console.
-
+ 
 Running
 The application runs in a single executable file which can be opened by double clicking it. The user can follow instructions on the console and also use it to type their input. 
 

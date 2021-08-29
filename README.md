@@ -1,4 +1,4 @@
-Toy Robot Simulator
+Toy Robot project
 
 
 This C# .NET solution is a simulator of a toy robot that moves on a tabletop. The development of this project is driven by unit tests. These are included in this repository. A full requirements specification can be found here:
